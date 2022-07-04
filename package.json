@@ -1,0 +1,19 @@
+{
+  "name": "haluka-sass",
+  "version": "1.0.0",
+  "description": "Sass compilation plugin for Haluka CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Robin Panta",
+  "license": "MIT",
+  "dependencies": {
+    "clean-css": "^5.3.0",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}

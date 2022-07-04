@@ -1,0 +1,9 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body h1 {
+    font-size: 20px;
+    color: darken($color: red, $amount: 20)
+}
